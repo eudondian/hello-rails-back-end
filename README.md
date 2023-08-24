@@ -22,10 +22,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 BUDGET APP <a name="about-project"></a>
+# 📖 Hello rails backend <a name="about-project"></a>
 
 
-**Hello rails backend**  
 The "Hello Rails Backend" application is developed using Ruby on Rails and serves as a backend system. Its purpose is to provide an interface, or API, that supplies messages to another application called "Hello React Frontend," which is built using the React framework.
 
 ## 🛠 Built With <a name="built-with"></a>
