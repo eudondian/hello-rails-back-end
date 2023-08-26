@@ -25,7 +25,7 @@
 # 📖 Hello rails backend <a name="about-project"></a>
 
 
-The "Hello Rails Backend" application is developed using Ruby on Rails and serves as a backend system. Its purpose is to provide an interface, or API, that supplies messages to another application called [Hello React Frontend]("http://localhost:3001/") which is built using the React framework.
+The "Hello Rails Backend" application is developed using Ruby on Rails and serves as a backend system. Its purpose is to provide an interface, or API, that supplies messages to another application called [Hello React Frontend](https://github.com/eudondian/hello-react-front-end/tree/front-end) which is built using the React framework.
 
 ## 🛠 Built With <a name="built-with"></a>
 
